@@ -1,0 +1,18 @@
+{
+	"cats": [{
+			"name": "Fluffy",
+			"color": "Red",
+			"url": "http://static3.fjcdn.com/comments/Just+make+sure+they+avoid+the+katz+motel+_6b1931e74d35a38df38728c6ba9720ce.jpg"
+		},
+		{
+			"name": "Killer",
+			"color": "Blue",
+			"url": "https://kittybloger.files.wordpress.com/2014/09/putin-and-kim-jong-un-become-cat-scratching-posts-4.jpg?w=584&h=605"
+		},
+		{
+			"name": "Jack",
+			"color": "Green",
+			"url": "https://static.comicvine.com/uploads/original/11/111746/4684849-latest.jpg"
+		}
+	]
+}
